@@ -1,0 +1,30 @@
+
+$teal: teal;
+$white: white;
+$green: green;
+$black: black;
+$font-size-h1: 80px;
+$font-size-h2-h3-h4: 25px;
+
+h1 {
+  color: $teal;
+  font-size: $font-size-h1;
+}
+
+h2, h3, h4 {
+  color: $white;
+  font-size: $font-size-h2-h3-h4;
+}
+
+p {
+  color: $green;
+}
+
+body {
+  background-color: $black;
+}
+
+.imagencliente {
+  width: 150px;
+  height: 150px;
+}

@@ -1,0 +1,17 @@
+h1 {
+  color: teal;
+  font-size: 80px; }
+
+h2, h3, h4 {
+  color: white;
+  font-size: 25px; }
+
+p {
+  color: green; }
+
+body {
+  background-color: black; }
+
+.imagencliente {
+  width: 150px;
+  height: 150px; }
